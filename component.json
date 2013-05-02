@@ -1,0 +1,13 @@
+{
+  "name": "transition-property",
+  "repo": "bmcmahen/transition-property",
+  "description": "returns the supported transition property, or null if none is supported",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
